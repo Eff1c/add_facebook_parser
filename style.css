@@ -1,0 +1,17 @@
+.page_title{
+    position: relative;
+    left: 30px;
+}
+
+.description{
+    width: 500px;
+}
+
+.post_image{
+    width: 500px;
+}
+
+.detailed{
+    width: 500px;
+    text-align: center;
+}
