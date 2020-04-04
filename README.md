@@ -1,4 +1,4 @@
 Замените, пожалуйста, файлы:
-style.css
-form_for_block.html
-form_for_page.html
+<p>style.css</p>
+<p>form_for_block.html</p>
+<p>form_for_page.html</p>
