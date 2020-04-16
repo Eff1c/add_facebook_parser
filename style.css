@@ -16,29 +16,29 @@ a{
 }
 
 .page_title{
-    position: absolute;
-    padding-left: 40px;
-    padding-top: 15px;
+	position: absolute;
+	padding-left: 40px;
+    	padding-top: 15px;
 }
 
 .description{
-    width: 500px;
+	width: 500px;
 }
 
 .post_image{
-    width: 500px;
+    	width: 500px;
 }
 
 .center{
-  width: 586px;
-  position: absolute;
-  left: 50%;
-  margin-left: -288px;
-  background-color: #343a40;
-  color: #EFF5FA;
+	width: 586px;
+  	position: absolute;
+  	left: 50%;
+  	margin-left: -288px;
+  	background-color: #343a40;
+  	color: #EFF5FA;
 }
 
 .detailed{
-    width: 500px;
-    text-align: center;
+    	width: 500px;
+    	text-align: center;
 }
