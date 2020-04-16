@@ -115,7 +115,7 @@ def getads(count_post, driver):
 
     driver.quit() # закриваєм вкладку
 
-    arr_advertising = [ads for ads in arr_post if "Реклама</b>" in ads or "Advertising</b>" in ads] # вибираємо серед постів рекламу
+    arr_advertising = [ads for ads in arr_post if "Реклама</b>" in ads or "Advertising</b>" in ads or "Advertising</a>" in ads or "Реклама</a>" in ads] # вибираємо серед постів рекламу
 
     print("Parsed post: ", len(arr_post), "; Advertising: ", len(arr_advertising)) # кількість зпарсених постів, серед них рекламних
 
